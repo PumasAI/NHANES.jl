@@ -1,0 +1,6 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+NHANES = "ebcbdcb1-d92d-4614-bb68-a1b7b655f43b"
+
+[compat]
+Documenter = "1"

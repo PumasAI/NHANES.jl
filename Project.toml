@@ -1,0 +1,25 @@
+name = "NHANES"
+uuid = "ebcbdcb1-d92d-4614-bb68-a1b7b655f43b"
+authors = ["Pumas-AI, Inc. and contributors"]
+version = "0.1.0"
+
+[deps]
+AbstractTrees = "1520ce14-60c1-5f80-bbc7-55ef81b5835c"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+Downloads = "f43a241f-c20a-4ad4-852c-f6b1247861c6"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+Lexbor = "7c3807c3-6380-4629-8731-66194421aa0a"
+ReadStatTables = "52522f7a-9570-4e34-8ac6-c005c74d4b84"
+Scratch = "6c6a2e73-6563-6170-7368-637461726353"
+
+[compat]
+AbstractTrees = "0.4.5"
+DataFrames = "1"
+Dates = "1"
+Downloads = "1"
+JSON = "1"
+Lexbor = "1"
+ReadStatTables = "0.3"
+Scratch = "1"
+julia = "1.10"
