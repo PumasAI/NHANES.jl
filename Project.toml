@@ -1,7 +1,7 @@
 name = "NHANES"
 uuid = "ebcbdcb1-d92d-4614-bb68-a1b7b655f43b"
-authors = ["Pumas-AI, Inc. and contributors"]
 version = "0.1.0"
+authors = ["Pumas-AI, Inc. and contributors"]
 
 [deps]
 AbstractTrees = "1520ce14-60c1-5f80-bbc7-55ef81b5835c"
@@ -20,6 +20,6 @@ Dates = "1"
 Downloads = "1"
 JSON = "1"
 Lexbor = "1"
-ReadStatTables = "0.3"
+ReadStatTables = "0.3, 0.4"
 Scratch = "1"
 julia = "1.10"
