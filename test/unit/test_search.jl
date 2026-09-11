@@ -160,9 +160,9 @@ end
                         "$(component)_2017",
                         [
                             Dict{String, Any}(
-                                    "name" => e["table"],
-                                    "description" => e["table_description"],
-                                ) for e in entries
+                                "name" => e["table"],
+                                "description" => e["table_description"],
+                            ) for e in entries
                         ],
                     )
                 end
